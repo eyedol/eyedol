@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey, Henry here 👋
+
+I'm a US-based Android developer with over 10 years experience, and I've had the chance to work on some pretty cool projects around the world. From mapping with Ushahidi to food tech at HelloFresh and IoT stuff with Vodafone, I've covered a lot of ground. My work has taken me to places like Kenya, Japan, Germany, and of course, the USA. I'm originally from Ghana.
+
+What really gets me excited is creating apps that are not just efficient, but also a breeze to use. I've got a knack for leading teams and helping them embrace new tech. When I'm not working on projects at work, you'll find me contributing to open-source projects – it's my way of giving back to the community and staying sharp with the latest Android trends.
 
 <!--
 **eyedol/eyedol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
