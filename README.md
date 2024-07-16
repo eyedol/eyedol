@@ -18,7 +18,7 @@ What really gets me excited is creating apps that are not just efficient, but al
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyedol&hide_title=true&count_private=true&show_icons=true&theme=android-dark&bg_color=00000000&text_color=4cbc8a&hide_border=true)][1]
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyedol&hide_title=true&layout=compact&hide=html&theme=android-dark&bg_color=00000000&text_color=4cbc8a&hide_border=true)][1]
 
-## 💾 Github Activity
+## 💾 Github Activities
 
 <!--START_SECTION:activity-->
 
