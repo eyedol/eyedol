@@ -28,8 +28,6 @@ What really gets me excited is creating apps that are not just efficient, but al
 5. 🎉 Merged PR [#405](https://github.com/eyedol/gengpt/pull/405) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
 <!--END_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ## 📫 How to reach me:
 [![Email Me](https://img.shields.io/badge/henry@addhen%20-.org-blue?logo=gmail&style=for-the-badge&color=0A84FF)][2]
 <!--
