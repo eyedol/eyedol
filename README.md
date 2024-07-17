@@ -6,7 +6,7 @@ I'm a US-based Android developer with over 10 years experience, and I've had the
 What really gets me excited is creating apps that are not just efficient, but also a breeze to use. I've got a knack for leading teams and helping them embrace new tech. And oh, I **love legacy code** and breathing new life into it. When I'm not working on projects at work, you'll find me contributing to open-source projects – it's my way of giving back to the community and staying sharp with the latest Android trends.
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=eyedol&style=for-the-badge&color=FAD230)][1]
-[![Kotlin](https://img.shields.io/badge/Kotlin-♥-blue?logo=kotlin&style=for-the-badge&color=0095D5)][1]
+[![Kotlin](https://img.shields.io/badge/Kotlin-♥-blue?logo=kotlin&style=for-the-badge&color=DF2FA7)][1]
 [![Java](https://img.shields.io/badge/Java-♥-blue?logo=java&style=for-the-badge&color=007396)][1]
 [![Android](https://img.shields.io/badge/Android-♥-blue?logo=android&style=for-the-badge&color=3DDC84)][1]
 [![Developer Experience](https://img.shields.io/badge/Developer%20Experience-♥-blue?logo=github&style=for-the-badge&color=red)][1]
