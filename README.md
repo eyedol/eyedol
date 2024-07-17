@@ -22,8 +22,6 @@ What really gets me excited is creating apps that are not just efficient, but al
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ## 📫 How to reach me:
 [![Email Me](https://img.shields.io/badge/henry@addhen%20-.org-blue?logo=gmail&style=for-the-badge&color=0A84FF)][2]
 <!--
