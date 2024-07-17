@@ -21,6 +21,12 @@ What really gets me excited is creating apps that are not just efficient, but al
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/eyedol/eyedol/pull/2) in [eyedol/eyedol](https://github.com/eyedol/eyedol)
+2. 🎉 Merged PR [#3](https://github.com/eyedol/eyedol/pull/3) in [eyedol/eyedol](https://github.com/eyedol/eyedol)
+3. 🎉 Merged PR [#1](https://github.com/eyedol/eyedol/pull/1) in [eyedol/eyedol](https://github.com/eyedol/eyedol)
+4. 🎉 Merged PR [#406](https://github.com/eyedol/gengpt/pull/406) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
+5. 🎉 Merged PR [#405](https://github.com/eyedol/gengpt/pull/405) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
+<!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
 [![Email Me](https://img.shields.io/badge/henry@addhen%20-.org-blue?logo=gmail&style=for-the-badge&color=0A84FF)][2]
