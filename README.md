@@ -1,9 +1,9 @@
 ## Hey, Henry here 👋
 
 <!-- About me -->
-I'm a US-based Android developer with over 10 years experience, and I've had the chance to work on some pretty cool projects around the world. From mapping with Ushahidi to food tech at HelloFresh and IoT stuff with Vodafone, I've covered a lot of ground. My work has taken me to places like Kenya, Japan, Germany, and of course, the USA. I'm originally from Ghana.
+I'm a US-based Android developer with over 10 years of experience, and I've had the chance to work on some pretty cool projects around the world. From mapping with Ushahidi to food tech with HelloFresh to IoT stuff with Vodafone, I've covered a lot of ground. My work has taken me to places like Kenya, Japan, Germany, and of course the US. I'm originally from Ghana.
 
-What really gets me excited is creating apps that are not just efficient, but also a breeze to use. I've got a knack for leading teams and helping them embrace new tech. And oh, I **love legacy code** and breathing new life into it. When I'm not working on projects at work, you'll find me contributing to open-source projects – it's my way of giving back to the community and staying sharp with the latest Android trends.
+What really excites me is creating applications that are not only efficient, but also a breeze to use. I have a knack for leading teams and helping them embrace new technologies. And oh, **I love legacy code** and breathing new life into it. When I'm not working on projects at work, you'll find me contributing to open source projects - it's my way of giving back to the community and staying on top of the latest Android trends.
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=eyedol&style=for-the-badge&color=FAD230)][1]
 [![Kotlin](https://img.shields.io/badge/Kotlin-♥-blue?logo=kotlin&style=for-the-badge&color=DF2FA7)][1]
