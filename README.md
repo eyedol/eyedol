@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#473](https://github.com/eyedol/gengpt/pull/473) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
-2. 🎉 Merged PR [#472](https://github.com/eyedol/gengpt/pull/472) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
-3. 🎉 Merged PR [#461](https://github.com/eyedol/gengpt/pull/461) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
-4. 🎉 Merged PR [#471](https://github.com/eyedol/gengpt/pull/471) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
-5. 🎉 Merged PR [#468](https://github.com/eyedol/gengpt/pull/468) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
+1. 🎉 Merged PR [#22](https://github.com/eyedol/job-search/pull/22) in [eyedol/job-search](https://github.com/eyedol/job-search)
+2. 🎉 Merged PR [#474](https://github.com/eyedol/gengpt/pull/474) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
+3. 🎉 Merged PR [#475](https://github.com/eyedol/gengpt/pull/475) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
+4. 🎉 Merged PR [#23](https://github.com/eyedol/job-search/pull/23) in [eyedol/job-search](https://github.com/eyedol/job-search)
+5. 🗣 Commented on [#496](https://github.com/takahirom/roborazzi/pull/496#issuecomment-2395495474) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
