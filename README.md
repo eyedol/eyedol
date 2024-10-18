@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#501](https://github.com/eyedol/gengpt/pull/501) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
-2. 🎉 Merged PR [#259](https://github.com/eyedol/fosdem-event-app/pull/259) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-3. 🎉 Merged PR [#258](https://github.com/eyedol/fosdem-event-app/pull/258) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-4. 🎉 Merged PR [#500](https://github.com/eyedol/gengpt/pull/500) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
-5. 🎉 Merged PR [#26](https://github.com/eyedol/job-search/pull/26) in [eyedol/job-search](https://github.com/eyedol/job-search)
+1. 🎉 Merged PR [#262](https://github.com/eyedol/fosdem-event-app/pull/262) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+2. 🎉 Merged PR [#261](https://github.com/eyedol/fosdem-event-app/pull/261) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+3. 🎉 Merged PR [#260](https://github.com/eyedol/fosdem-event-app/pull/260) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+4. 💪 Opened PR [#35](https://github.com/weeeBox/mobile-system-design/pull/35) in [weeeBox/mobile-system-design](https://github.com/weeeBox/mobile-system-design)
+5. 🎉 Merged PR [#501](https://github.com/eyedol/gengpt/pull/501) in [eyedol/gengpt](https://github.com/eyedol/gengpt)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
