@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/sproctor/compose-data-table/pull/22) in [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table)
-2. 💪 Opened PR [#21](https://github.com/sproctor/compose-data-table/pull/21) in [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table)
-3. 🎉 Merged PR [#290](https://github.com/eyedol/fosdem-event-app/pull/290) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-4. 🎉 Merged PR [#289](https://github.com/eyedol/fosdem-event-app/pull/289) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-5. 🎉 Merged PR [#42](https://github.com/eyedol/job-search/pull/42) in [eyedol/job-search](https://github.com/eyedol/job-search)
+1. 🗣 Commented on [#22](https://github.com/sproctor/compose-data-table/pull/22#issuecomment-2559968070) in [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table)
+2. 💪 Opened PR [#22](https://github.com/sproctor/compose-data-table/pull/22) in [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table)
+3. 💪 Opened PR [#21](https://github.com/sproctor/compose-data-table/pull/21) in [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table)
+4. 🎉 Merged PR [#290](https://github.com/eyedol/fosdem-event-app/pull/290) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+5. 🎉 Merged PR [#289](https://github.com/eyedol/fosdem-event-app/pull/289) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
