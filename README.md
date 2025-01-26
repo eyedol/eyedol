@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#285](https://github.com/eyedol/fosdem-event-app/pull/285) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-2. 🎉 Merged PR [#299](https://github.com/eyedol/fosdem-event-app/pull/299) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-3. 🎉 Merged PR [#298](https://github.com/eyedol/fosdem-event-app/pull/298) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-4. 🎉 Merged PR [#297](https://github.com/eyedol/fosdem-event-app/pull/297) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-5. 🎉 Merged PR [#296](https://github.com/eyedol/fosdem-event-app/pull/296) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+1. 🎉 Merged PR [#47](https://github.com/eyedol/job-search/pull/47) in [eyedol/job-search](https://github.com/eyedol/job-search)
+2. 🎉 Merged PR [#285](https://github.com/eyedol/fosdem-event-app/pull/285) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+3. 🎉 Merged PR [#299](https://github.com/eyedol/fosdem-event-app/pull/299) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+4. 🎉 Merged PR [#298](https://github.com/eyedol/fosdem-event-app/pull/298) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+5. 🎉 Merged PR [#297](https://github.com/eyedol/fosdem-event-app/pull/297) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
