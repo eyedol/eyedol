@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#300](https://github.com/eyedol/fosdem-event-app/pull/300) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-2. 🎉 Merged PR [#48](https://github.com/eyedol/job-search/pull/48) in [eyedol/job-search](https://github.com/eyedol/job-search)
-3. 🎉 Merged PR [#47](https://github.com/eyedol/job-search/pull/47) in [eyedol/job-search](https://github.com/eyedol/job-search)
-4. 🎉 Merged PR [#285](https://github.com/eyedol/fosdem-event-app/pull/285) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-5. 🎉 Merged PR [#299](https://github.com/eyedol/fosdem-event-app/pull/299) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+1. 🎉 Merged PR [#17](https://github.com/addhen/klocation/pull/17) in [addhen/klocation](https://github.com/addhen/klocation)
+2. 🎉 Merged PR [#19](https://github.com/addhen/klocation/pull/19) in [addhen/klocation](https://github.com/addhen/klocation)
+3. 🎉 Merged PR [#20](https://github.com/addhen/klocation/pull/20) in [addhen/klocation](https://github.com/addhen/klocation)
+4. 🎉 Merged PR [#18](https://github.com/addhen/klocation/pull/18) in [addhen/klocation](https://github.com/addhen/klocation)
+5. 🎉 Merged PR [#300](https://github.com/eyedol/fosdem-event-app/pull/300) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
