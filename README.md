@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/addhen/kanalytics/pull/29) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-2. 💪 Opened PR [#29](https://github.com/addhen/kanalytics/pull/29) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-3. 🎉 Merged PR [#28](https://github.com/addhen/kanalytics/pull/28) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-4. 🎉 Merged PR [#309](https://github.com/eyedol/fosdem-event-app/pull/309) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-5. 💪 Opened PR [#28](https://github.com/addhen/kanalytics/pull/28) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+1. 🗣 Commented on [#26](https://github.com/sproctor/compose-data-table/issues/26#issuecomment-2672896302) in [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table)
+2. 🎉 Merged PR [#26](https://github.com/addhen/kanalytics/pull/26) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+3. 🗣 Commented on [#26](https://github.com/sproctor/compose-data-table/issues/26#issuecomment-2672351569) in [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table)
+4. 🎉 Merged PR [#30](https://github.com/addhen/kanalytics/pull/30) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+5. 💪 Opened PR [#30](https://github.com/addhen/kanalytics/pull/30) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
