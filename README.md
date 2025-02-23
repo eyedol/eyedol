@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/sproctor/compose-data-table/issues/26#issuecomment-2672896302) in [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table)
-2. 🎉 Merged PR [#26](https://github.com/addhen/kanalytics/pull/26) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-3. 🗣 Commented on [#26](https://github.com/sproctor/compose-data-table/issues/26#issuecomment-2672351569) in [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table)
-4. 🎉 Merged PR [#30](https://github.com/addhen/kanalytics/pull/30) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-5. 💪 Opened PR [#30](https://github.com/addhen/kanalytics/pull/30) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+1. 🎉 Merged PR [#51](https://github.com/eyedol/job-search/pull/51) in [eyedol/job-search](https://github.com/eyedol/job-search)
+2. 🎉 Merged PR [#31](https://github.com/addhen/kanalytics/pull/31) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+3. 💪 Opened PR [#31](https://github.com/addhen/kanalytics/pull/31) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+4. 🎉 Merged PR [#26](https://github.com/addhen/klocation/pull/26) in [addhen/klocation](https://github.com/addhen/klocation)
+5. 🗣 Commented on [#26](https://github.com/sproctor/compose-data-table/issues/26#issuecomment-2672896302) in [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
