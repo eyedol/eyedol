@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14013](https://github.com/signalapp/Signal-Android/pull/14013) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-2. 🎉 Merged PR [#310](https://github.com/eyedol/fosdem-event-app/pull/310) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
-3. 🎉 Merged PR [#5](https://github.com/eyedol/eyedol/pull/5) in [eyedol/eyedol](https://github.com/eyedol/eyedol)
-4. 🎉 Merged PR [#51](https://github.com/eyedol/job-search/pull/51) in [eyedol/job-search](https://github.com/eyedol/job-search)
-5. 🎉 Merged PR [#31](https://github.com/addhen/kanalytics/pull/31) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+1. 💪 Opened PR [#14016](https://github.com/signalapp/Signal-Android/pull/14016) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+2. 🗣 Commented on [#14015](https://github.com/signalapp/Signal-Android/issues/14015#issuecomment-2679738103) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+3. ❗ Opened issue [#14015](https://github.com/signalapp/Signal-Android/issues/14015) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+4. 🗣 Commented on [#14009](https://github.com/signalapp/Signal-Android/issues/14009#issuecomment-2679571965) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+5. 🗣 Commented on [#14009](https://github.com/signalapp/Signal-Android/issues/14009#issuecomment-2679272226) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
