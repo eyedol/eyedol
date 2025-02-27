@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14016](https://github.com/signalapp/Signal-Android/pull/14016) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-2. 🗣 Commented on [#14015](https://github.com/signalapp/Signal-Android/issues/14015#issuecomment-2679738103) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-3. ❗ Opened issue [#14015](https://github.com/signalapp/Signal-Android/issues/14015) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-4. 🗣 Commented on [#14009](https://github.com/signalapp/Signal-Android/issues/14009#issuecomment-2679571965) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-5. 🗣 Commented on [#14009](https://github.com/signalapp/Signal-Android/issues/14009#issuecomment-2679272226) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+1. 💪 Opened PR [#35](https://github.com/addhen/kanalytics/pull/35) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+2. 🎉 Merged PR [#53](https://github.com/eyedol/job-search/pull/53) in [eyedol/job-search](https://github.com/eyedol/job-search)
+3. ❗ Opened issue [#34](https://github.com/addhen/kanalytics/issues/34) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+4. 🎉 Merged PR [#52](https://github.com/eyedol/job-search/pull/52) in [eyedol/job-search](https://github.com/eyedol/job-search)
+5. 🎉 Merged PR [#27](https://github.com/addhen/klocation/pull/27) in [addhen/klocation](https://github.com/addhen/klocation)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
