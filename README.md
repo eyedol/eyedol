@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14016](https://github.com/signalapp/Signal-Android/pull/14016#issuecomment-2704717404) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-2. 🎉 Merged PR [#31](https://github.com/addhen/klocation/pull/31) in [addhen/klocation](https://github.com/addhen/klocation)
-3. 🎉 Merged PR [#40](https://github.com/addhen/kanalytics/pull/40) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-4. 💪 Opened PR [#41](https://github.com/addhen/kanalytics/pull/41) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-5. 🎉 Merged PR [#30](https://github.com/addhen/klocation/pull/30) in [addhen/klocation](https://github.com/addhen/klocation)
+1. 🎉 Merged PR [#318](https://github.com/eyedol/fosdem-event-app/pull/318) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+2. 🎉 Merged PR [#317](https://github.com/eyedol/fosdem-event-app/pull/317) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+3. 🎉 Merged PR [#316](https://github.com/eyedol/fosdem-event-app/pull/316) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+4. 🎉 Merged PR [#315](https://github.com/eyedol/fosdem-event-app/pull/315) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+5. 🎉 Merged PR [#314](https://github.com/eyedol/fosdem-event-app/pull/314) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
