@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43](https://github.com/addhen/kanalytics/issues/43) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-2. 🔒 Closed issue [#36](https://github.com/addhen/kanalytics/issues/36) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-3. 🎉 Merged PR [#41](https://github.com/addhen/kanalytics/pull/41) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-4. 🎉 Merged PR [#42](https://github.com/addhen/kanalytics/pull/42) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-5. 🎉 Merged PR [#318](https://github.com/eyedol/fosdem-event-app/pull/318) in [eyedol/fosdem-event-app](https://github.com/eyedol/fosdem-event-app)
+1. 💪 Opened PR [#44](https://github.com/addhen/kanalytics/pull/44) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+2. ❗ Opened issue [#43](https://github.com/addhen/kanalytics/issues/43) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+3. 🔒 Closed issue [#36](https://github.com/addhen/kanalytics/issues/36) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+4. 🎉 Merged PR [#41](https://github.com/addhen/kanalytics/pull/41) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+5. 🎉 Merged PR [#42](https://github.com/addhen/kanalytics/pull/42) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
