@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/addhen/kanalytics/pull/44) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-2. 💪 Opened PR [#44](https://github.com/addhen/kanalytics/pull/44) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-3. ❗ Opened issue [#43](https://github.com/addhen/kanalytics/issues/43) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-4. 🔒 Closed issue [#36](https://github.com/addhen/kanalytics/issues/36) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-5. 🎉 Merged PR [#41](https://github.com/addhen/kanalytics/pull/41) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+1. 🚀 Published release [v1.2.0](https://github.com/addhen/kanalytics/releases/tag/v1.2.0) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+2. 🎉 Merged PR [#44](https://github.com/addhen/kanalytics/pull/44) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+3. 💪 Opened PR [#44](https://github.com/addhen/kanalytics/pull/44) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+4. ❗ Opened issue [#43](https://github.com/addhen/kanalytics/issues/43) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+5. 🔒 Closed issue [#36](https://github.com/addhen/kanalytics/issues/36) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
