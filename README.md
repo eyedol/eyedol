@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/kasahorowFoundation/android-keyboard/pull/77) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-2. ❌ Closed PR [#76](https://github.com/kasahorowFoundation/android-keyboard/pull/76) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-3. ❌ Closed PR [#75](https://github.com/kasahorowFoundation/android-keyboard/pull/75) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-4. ❌ Closed PR [#74](https://github.com/kasahorowFoundation/android-keyboard/pull/74) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-5. ❌ Closed PR [#73](https://github.com/kasahorowFoundation/android-keyboard/pull/73) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+1. 🎉 Merged PR [#80](https://github.com/kasahorowFoundation/android-keyboard/pull/80) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+2. 🎉 Merged PR [#79](https://github.com/kasahorowFoundation/android-keyboard/pull/79) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+3. 💪 Opened PR [#80](https://github.com/kasahorowFoundation/android-keyboard/pull/80) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+4. 🎉 Merged PR [#77](https://github.com/kasahorowFoundation/android-keyboard/pull/77) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+5. ❌ Closed PR [#76](https://github.com/kasahorowFoundation/android-keyboard/pull/76) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
