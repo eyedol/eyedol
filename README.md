@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/kasahorowFoundation/android-keyboard/pull/80) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-2. 🎉 Merged PR [#79](https://github.com/kasahorowFoundation/android-keyboard/pull/79) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-3. 💪 Opened PR [#80](https://github.com/kasahorowFoundation/android-keyboard/pull/80) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-4. 🎉 Merged PR [#77](https://github.com/kasahorowFoundation/android-keyboard/pull/77) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-5. ❌ Closed PR [#76](https://github.com/kasahorowFoundation/android-keyboard/pull/76) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+1. 💪 Opened PR [#63](https://github.com/addhen/kanalytics/pull/63) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+2. 🎉 Merged PR [#62](https://github.com/addhen/kanalytics/pull/62) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+3. 🗣 Commented on [#5750](https://github.com/sqldelight/sqldelight/issues/5750#issuecomment-2889020536) in [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight)
+4. 🎉 Merged PR [#57](https://github.com/addhen/kanalytics/pull/57) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+5. 🎉 Merged PR [#80](https://github.com/kasahorowFoundation/android-keyboard/pull/80) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
