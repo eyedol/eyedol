@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/kasahorowFoundation/android-keyboard/pull/116) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-2. 🎉 Merged PR [#51](https://github.com/addhen/klocation/pull/51) in [addhen/klocation](https://github.com/addhen/klocation)
-3. 🎉 Merged PR [#71](https://github.com/eyedol/job-search/pull/71) in [eyedol/job-search](https://github.com/eyedol/job-search)
-4. 🎉 Merged PR [#73](https://github.com/addhen/kanalytics/pull/73) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-5. 🎉 Merged PR [#114](https://github.com/kasahorowFoundation/android-keyboard/pull/114) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+1. 🎉 Merged PR [#120](https://github.com/kasahorowFoundation/android-keyboard/pull/120) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+2. 🎉 Merged PR [#119](https://github.com/kasahorowFoundation/android-keyboard/pull/119) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+3. 🎉 Merged PR [#118](https://github.com/kasahorowFoundation/android-keyboard/pull/118) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+4. 🎉 Merged PR [#117](https://github.com/kasahorowFoundation/android-keyboard/pull/117) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+5. 🎉 Merged PR [#86](https://github.com/eyedol/voto-java-sdk/pull/86) in [eyedol/voto-java-sdk](https://github.com/eyedol/voto-java-sdk)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
