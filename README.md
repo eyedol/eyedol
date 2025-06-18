@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/addhen/kanalytics/issues/76#issuecomment-2974223783) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-2. 🎉 Merged PR [#52](https://github.com/addhen/klocation/pull/52) in [addhen/klocation](https://github.com/addhen/klocation)
-3. 🎉 Merged PR [#75](https://github.com/addhen/kanalytics/pull/75) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-4. 🎉 Merged PR [#122](https://github.com/kasahorowFoundation/android-keyboard/pull/122) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-5. 🎉 Merged PR [#121](https://github.com/kasahorowFoundation/android-keyboard/pull/121) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
+1. 🎉 Merged PR [#72](https://github.com/eyedol/job-search/pull/72) in [eyedol/job-search](https://github.com/eyedol/job-search)
+2. 🗣 Commented on [#76](https://github.com/addhen/kanalytics/issues/76#issuecomment-2974223783) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+3. 🎉 Merged PR [#52](https://github.com/addhen/klocation/pull/52) in [addhen/klocation](https://github.com/addhen/klocation)
+4. 🎉 Merged PR [#75](https://github.com/addhen/kanalytics/pull/75) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+5. 🎉 Merged PR [#122](https://github.com/kasahorowFoundation/android-keyboard/pull/122) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
