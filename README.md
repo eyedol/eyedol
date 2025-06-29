@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/addhen/klocation/pull/56) in [addhen/klocation](https://github.com/addhen/klocation)
-2. 🎉 Merged PR [#81](https://github.com/addhen/kanalytics/pull/81) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-3. 🎉 Merged PR [#82](https://github.com/addhen/kanalytics/pull/82) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-4. 🎉 Merged PR [#73](https://github.com/eyedol/job-search/pull/73) in [eyedol/job-search](https://github.com/eyedol/job-search)
-5. 🎉 Merged PR [#55](https://github.com/addhen/klocation/pull/55) in [addhen/klocation](https://github.com/addhen/klocation)
+1. 🎉 Merged PR [#57](https://github.com/addhen/klocation/pull/57) in [addhen/klocation](https://github.com/addhen/klocation)
+2. 🎉 Merged PR [#56](https://github.com/addhen/klocation/pull/56) in [addhen/klocation](https://github.com/addhen/klocation)
+3. 🎉 Merged PR [#81](https://github.com/addhen/kanalytics/pull/81) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+4. 🎉 Merged PR [#82](https://github.com/addhen/kanalytics/pull/82) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+5. 🎉 Merged PR [#73](https://github.com/eyedol/job-search/pull/73) in [eyedol/job-search](https://github.com/eyedol/job-search)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
