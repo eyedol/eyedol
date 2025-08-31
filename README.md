@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/addhen/klocation/pull/65) in [addhen/klocation](https://github.com/addhen/klocation)
-2. 🎉 Merged PR [#66](https://github.com/addhen/klocation/pull/66) in [addhen/klocation](https://github.com/addhen/klocation)
-3. 🎉 Merged PR [#64](https://github.com/addhen/klocation/pull/64) in [addhen/klocation](https://github.com/addhen/klocation)
-4. 🎉 Merged PR [#69](https://github.com/addhen/klocation/pull/69) in [addhen/klocation](https://github.com/addhen/klocation)
-5. 🎉 Merged PR [#103](https://github.com/addhen/kanalytics/pull/103) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+1. 🎉 Merged PR [#107](https://github.com/addhen/kanalytics/pull/107) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+2. 🎉 Merged PR [#65](https://github.com/addhen/klocation/pull/65) in [addhen/klocation](https://github.com/addhen/klocation)
+3. 🎉 Merged PR [#66](https://github.com/addhen/klocation/pull/66) in [addhen/klocation](https://github.com/addhen/klocation)
+4. 🎉 Merged PR [#64](https://github.com/addhen/klocation/pull/64) in [addhen/klocation](https://github.com/addhen/klocation)
+5. 🎉 Merged PR [#69](https://github.com/addhen/klocation/pull/69) in [addhen/klocation](https://github.com/addhen/klocation)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
