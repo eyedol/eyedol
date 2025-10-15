@@ -21,11 +21,11 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/addhen/kanalytics/issues/76#issuecomment-3395557415) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-2. 🔒 Closed issue [#76](https://github.com/addhen/kanalytics/issues/76) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
-3. 🔒 Closed issue [#163](https://github.com/kasahorowFoundation/android-keyboard/issues/163) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-4. 🎉 Merged PR [#164](https://github.com/kasahorowFoundation/android-keyboard/pull/164) in [kasahorowFoundation/android-keyboard](https://github.com/kasahorowFoundation/android-keyboard)
-5. 🎉 Merged PR [#130](https://github.com/addhen/kanalytics/pull/130) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+1. 🔒 Closed issue [#76](https://github.com/addhen/kanalytics/issues/76) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+2. 🗣 Commented on [#76](https://github.com/addhen/kanalytics/issues/76#issuecomment-3395557415) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+3. 💪 Opened PR [#130](undefined) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+4. 💪 Opened PR [#129](undefined) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+5. 💪 Opened PR [#128](undefined) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
 <!--END_SECTION:activity-->
 
 ## 📫 How to reach me:
