@@ -21,7 +21,7 @@ What really excites me is creating applications that are not only efficient, but
 ## 💾 Github Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#76](https://github.com/addhen/kanalytics/issues/76) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
+1. 💪 Opened PR [#154](https://github.com/addhen/kanalytics/pull/154) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
 2. 🗣 Commented on [#76](https://github.com/addhen/kanalytics/issues/76#issuecomment-3395557415) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
 3. 💪 Opened PR [#130](undefined) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
 4. 💪 Opened PR [#129](undefined) in [addhen/kanalytics](https://github.com/addhen/kanalytics)
